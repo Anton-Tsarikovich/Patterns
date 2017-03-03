@@ -13,6 +13,9 @@ namespace Patterns {
 
             Abstract_Factory afact = new Abstract_Factory();
             afact.Run();
+
+            Singleton singleton = new Singleton();
+            singleton.Run();
         }
     }
 }
