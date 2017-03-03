@@ -10,6 +10,9 @@ namespace Patterns {
         static void Main(string[] args) {
             Factory_Method fact = new Factory_Method();
             fact.Run();
+
+            Abstract_Factory afact = new Abstract_Factory();
+            afact.Run();
         }
     }
 }

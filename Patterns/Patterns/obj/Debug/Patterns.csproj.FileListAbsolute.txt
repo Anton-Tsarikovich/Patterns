@@ -4,3 +4,9 @@ C:\Users\Anton\Source\Repos\Patterns\Patterns\Patterns\bin\Debug\Patterns.pdb
 C:\Users\Anton\Source\Repos\Patterns\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
 C:\Users\Anton\Source\Repos\Patterns\Patterns\Patterns\obj\Debug\Patterns.exe
 C:\Users\Anton\Source\Repos\Patterns\Patterns\Patterns\obj\Debug\Patterns.pdb
+C:\Users\Anton\Desktop\Patterns\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\Anton\Desktop\Patterns\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\Anton\Desktop\Patterns\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\Anton\Desktop\Patterns\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Patterns\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\Anton\Desktop\Patterns\Patterns\Patterns\obj\Debug\Patterns.pdb
