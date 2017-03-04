@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Creational\Abstract Factory.cs" />
     <Compile Include="Creational\Factory Method.cs" />
+    <Compile Include="Creational\Protorype.cs" />
     <Compile Include="Creational\Singleton.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

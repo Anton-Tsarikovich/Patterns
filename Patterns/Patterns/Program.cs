@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using Patterns.Creational;
 
 namespace Patterns {
@@ -16,6 +12,9 @@ namespace Patterns {
 
             Singleton singleton = new Singleton();
             singleton.Run();
+
+            Protorype prototype = new Protorype();
+            prototype.Run();
         }
     }
 }
