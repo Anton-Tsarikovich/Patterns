@@ -1,5 +1,5 @@
-﻿
-using Patterns.Creational;
+﻿using Patterns.Creational;
+using Patterns.Behavioral;
 
 namespace Patterns {
     class Program {
@@ -15,6 +15,9 @@ namespace Patterns {
 
             Protorype prototype = new Protorype();
             prototype.Run();
+
+            Strategy strategy = new Strategy();
+            strategy.Run();
         }
     }
 }
