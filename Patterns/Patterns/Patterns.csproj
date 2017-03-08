@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\Observer.cs" />
     <Compile Include="Behavioral\Strategy.cs" />
     <Compile Include="Creational\Abstract Factory.cs" />
     <Compile Include="Creational\Factory Method.cs" />
